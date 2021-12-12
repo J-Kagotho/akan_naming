@@ -1,0 +1,22 @@
+header{
+    background-color: grey;   
+}
+.nav {
+    margin: 0;
+    padding: 10px; 
+    background-color:gold;
+    overflow: hidden;
+    list-style: none;  
+     
+}
+li{
+    display: inline;
+    padding:14px 16px; 
+    border-right: 1px solid white; 
+}
+li a:hover {
+    background-color: white;
+}
+
+
+
