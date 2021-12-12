@@ -1,22 +1,11 @@
-header{
-    background-color: grey;   
-}
-.nav {
-    margin: 0;
-    padding: 10px; 
-    background-color:gold;
-    overflow: hidden;
-    list-style: none;  
-     
-}
-li{
-    display: inline;
-    padding:14px 16px; 
-    border-right: 1px solid white; 
-}
-li a:hover {
-    background-color: white;
-}
+.card {
+    border: 1px solid black;
+    height: 600px;
+    text-align: center;
+    background-image: url(images/nature2.png) ;
+    font-size: large;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    background-size: cover;
 
-
-
+}
