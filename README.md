@@ -13,8 +13,7 @@ This website gives information about akan naming generated fro ghanian culture. 
 Author name: Joyce Kagotho
 
 ## Contact Details
-Incase of any issue contact me;
-Email: joycekagotho@gmail.com
+* Email: joycekagotho@gmail.com
 
 ## License
 MIT License
