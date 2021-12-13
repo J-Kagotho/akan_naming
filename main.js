@@ -4,7 +4,7 @@ let maleAkanNames = [
 let femaleAkanNames = [
     "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"
 ];
-let daysOfTheWeek = [
+let daysOfTheWeek= [
     "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
 ];
 if (dateOfMonth < 1 or >31{
