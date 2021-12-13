@@ -1,6 +1,6 @@
 .card {
     border: 1px solid black;
-    height: 600px;
+    height: 700px;
     text-align: center;
     background-image: url(images/nature2.png) ;
     font-size: large;
@@ -15,9 +15,26 @@
 #month{
     background-color: lavender;
     width: 30%;
+    
 }
 #year{
     background-color: lavenderblush;
     width: 30%;
 }
-
+.form{
+    padding:0;
+    margin-bottom: 10px;
+}
+.form2{
+    margin-bottom: 10px;
+}
+.form3{
+    margin-bottom: 10;
+}
+#name{
+    font: bold;
+    color: gold;
+}
+#details{
+    color: gold;
+}

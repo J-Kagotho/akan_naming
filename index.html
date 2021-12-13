@@ -11,12 +11,12 @@
 <body>
     <div class="card">
     <div class="container">
-    <h1>Akan name generator</h1>
+    <h1 id="name">Akan name generator</h1>
     <p>Akan names are derived from Ghanian culture. Children in Ghana are usually given their first name as a 'day name' which corresponds the day of the week they were born.</p>
-    <p>Some people on know when their birthdays are but dont know the day of the week they were born.</p>
+    <p>Some people only know when their birthdays are but dont know the day of the week they were born.</p>
     <p>This website is here to help people know their Akan names by submitting their birth details.</p>
 
-     <h2>Details Corner</h2>
+     <h2 id="details">Details Corner</h2>
      <p>To genarate your Akan name, please fill in the following,</p>
 
      <form action="results.html" method="GET">
@@ -25,12 +25,12 @@
             <input type="number" name="Date Of Birth" id="date" placeholder="BB" value="" required>
          </div>
 
-         <div>
+         <div class="form2">
             <label for="month">Month Of Birth</label>
             <input type="number" name="Month Of Birth" id="month" placeholder="MM" value="" required>
          </div>
 
-         <div>
+         <div class="form3">
             <label for="year">Year Of Birth</label>
             <input type="number" name="Year Of Birth" id="year" placeholder="YYYY" value="" required>
          </div>
@@ -45,7 +45,7 @@
 
             </label>
          <div>
-            <button>submit</button> 
+            <button>Name generator</button> 
          </div>
         
      </form>
