@@ -2,7 +2,7 @@ let maleAkanNames = [
     "kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"
 ];
 let femaleAkanNames = [
-    "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"
+    "Akosua", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"
 ];
 let daysOfTheWeek= [
     "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
