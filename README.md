@@ -9,6 +9,11 @@ This website gives information about akan naming generated fro ghanian culture. 
 * CSS for styling.
 * JavaScript for functionality.
 
+## Behaviour Driven Development
+* The user inputs the date,month and year of birth.
+* On clicking Akan generator calculations are done with the web.
+* The web reveals the users akan name and the day of the week they were born. 
+
 ## Author Info
 Author name: Joyce Kagotho
 
