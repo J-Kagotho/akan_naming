@@ -2,11 +2,11 @@
     border: 1px solid black;
     height: 700px;
     text-align: center;
-    background-image: url(images/nature2.png) ;
     font-size: large;
     font-weight: 600;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: url(images/nature2.png)
 }
 #date{
     background-color: ivory;
