@@ -10,16 +10,16 @@
 }
 #date{
     background-color: ivory;
-    width: 30%;
+    width: 20%;
 }
 #month{
     background-color: lavender;
-    width: 30%;
+    width: 20%;
     
 }
 #year{
     background-color: lavenderblush;
-    width: 30%;
+    width: 20%;
 }
 .form{
     padding:0;
