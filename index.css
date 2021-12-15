@@ -1,6 +1,6 @@
 .card {
     border: 1px solid black;
-    height: 700px;
+    height: 100vh;
     text-align: center;
     font-size: large;
     font-weight: 600;
@@ -8,6 +8,10 @@
     background-size: cover;
     background-image: url(images/nature2.png)
 }
+.container{
+    height: 100%;
+}
+
 #date{
     background-color: ivory;
     width: 20%;
@@ -20,6 +24,9 @@
 #year{
     background-color: lavenderblush;
     width: 20%;
+}
+#form{
+    height: 40vh;
 }
 .form{
     padding:0;
